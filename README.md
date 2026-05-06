@@ -2,6 +2,14 @@
 
 | 链接 | 描述 |
 |------|------|
+| [DaliVM](https://github.com/fatalSec/DaliVM) | Android Dalvik字节码静态分析模拟器 |
+| [DeepZero](https://github.com/416rehman/DeepZero) | AI驱动的Windows内核驱动漏洞研究框架 |
+| [PolyEngine](https://github.com/LongWayHomie/PolyEngine) | 面向CTF的Windows PE规避打包器 |
+| [NTSleuth](https://github.com/xaitax/NTSleuth) | Windows系统调用提取与分析框架 |
+| [antidbg](https://github.com/NotRequiem/antidbg) | 基于系统调用的Windows反调试库 |
+| [Lucky-Spark](https://github.com/Schich/Lucky-Spark) | 仿Sliver的HTTP Shellcode隐蔽加载器 |
+| [DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls) | 支持Hook规避的间接系统调用库 |
+| [BypassPro](https://github.com/0x727/BypassPro) | 自动化Auth与WAF绕过Burp插件 |
 | [DrvEye](https://github.com/0xDbgMan/DrvEye) | Windows内核驱动静态分析与BYOVD利用分诊工具 |
 | [gecit](https://github.com/boratanrikulu/gecit) | 基于eBPF与TUN的跨平台DPI绕过工具 |
 | [Hunt-Weird-Syscalls](https://github.com/thefLink/Hunt-Weird-Syscalls) | 基于ETW检测直接与间接系统调用的PoC |

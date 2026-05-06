@@ -2,6 +2,18 @@
 
 | 文章 | 简介 |
 |------|------|
+| [Mira](https://github.com/vwww-droid/Mira) | 面向AI的移动运行时检测工作台 |
+| [auth2api](https://github.com/AmazingAng/auth2api) | Claude OAuth转OpenAI兼容API代理 |
+| [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) | 基于AI群体的自主渗透测试框架 |
+| [ironcurtain](https://github.com/provos/ironcurtain) | 面向AI代理的策略化安全运行时 |
+| [code-needle](https://github.com/chvancooten/code-needle) | 通过本地HTTP执行JS的VS Code插件 |
+| [dufs](https://github.com/sigoden/dufs) | 支持上传搜索与WebDAV的Rust文件服务器 |
+| [glpwnme](https://github.com/Orange-Cyberdefense/glpwnme) | GLPI漏洞检测与验证工具 |
+| [claudex](https://github.com/caixiaoshun/claudex) | 连接Claude Code与Codex的本地代理 |
+| [smallworld](https://github.com/smallworld-re/smallworld) | 用于二进制动态分析的代码执行环境 |
+| [static-analyzer-factory](https://github.com/Static-Analyzer-Factory/static-analyzer-factory) | 面向C/C++缺陷发现的静态分析框架 |
+| [Proteus](https://github.com/rafabd1/Proteus) | 面向代码库漏洞研究的Codex运行时 |
+| [SSRFHunter](https://github.com/BotGJ16/SSRFHunter) | 面向红队的SSRF自动化利用框架 |
 | [warp](https://github.com/warpdotdev/warp) | 开源AI原生终端开发环境 |
 | [shadowrank](https://github.com/F2u0a0d3/shadowrank) | 基于Next.js和Supabase的游戏化习惯追踪器 |
 | [claw-code](https://github.com/ultraworkers/claw-code) | 基于Rust与oh-my-codex的高速AI编码仓库 |

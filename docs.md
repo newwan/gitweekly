@@ -2,6 +2,10 @@
 
 | 文章 | 简介 |
 |------|------|
+| [GOAD-Dracarys](https://bl4ckarch.github.io/posts/GOAD-DRACARYS/) | GOAD-Dracarys靶场攻击路径复盘 |
+| [Recursively fuzzing MS-RPC](https://www.incendium.rocks/posts/Fuzzing-MS-RPC-structures-and-monitoring/) | 递归模糊测试MS-RPC结构与ETW监控实践 |
+| [Exploring NVIDIA Linux Drivers](https://fuzzinglabs.com/exploring-nvidia-linux-drivers-internals-basics-ioctls/) | NVIDIA Linux驱动IOCTL内部机制解析 |
+| [MariaDB CVE-2026-32710](https://www.zeroday.cloud/blog/mariadb-cve-2026-32710-deep-dive) | MariaDB JSON_SCHEMA_VALID堆溢出RCE分析 |
 | [Codex on the Wire](https://www.originhq.com/blog/codex-on-the-wire) | Codex网络服务暴露风险与Flag配置分析 |
 | [Copy Fail](https://xint.io/blog/copy-fail-linux-distributions) | Linux内核AF_ALG页缓存提权漏洞分析 |
 | [Smashing pgcrypto](https://i0.rs/blog/smashing-pgcrypto-for-fun-and-profit-analyzing-and-exploiting-cve-2026-2005/) | PostgreSQL pgcrypto堆溢出RCE漏洞分析 |
