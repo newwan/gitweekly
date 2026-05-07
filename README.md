@@ -2,6 +2,11 @@
 
 | 链接 | 描述 |
 |------|------|
+| [PositiveIntent](https://github.com/Mister-Joe/PositiveIntent) | 规避加载.NET程序集的C#内存执行工具 |
+| [NetFuscator](https://github.com/Mister-Joe/NetFuscator) | 基于Mono.Cecil的.NET程序集基础混淆器 |
+| [EVENSTAR](https://github.com/winterknife/EVENSTAR) | 面向Windows底层实验的Intel 64研究代码 |
+| [morphkatz](https://github.com/0xMohammedHassan/morphkatz) | 生成语义等价变体的Windows x64 PE多态重写器 |
+| [filecat](https://github.com/xiaobaidadada/filecat) | 集成文件管理和SSH代理的Web服务器管理平台 |
 | [DaliVM](https://github.com/fatalSec/DaliVM) | Android Dalvik字节码静态分析模拟器 |
 | [DeepZero](https://github.com/416rehman/DeepZero) | AI驱动的Windows内核驱动漏洞研究框架 |
 | [PolyEngine](https://github.com/LongWayHomie/PolyEngine) | 面向CTF的Windows PE规避打包器 |

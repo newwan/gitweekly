@@ -2,6 +2,8 @@
 
 | 文章 | 简介 |
 |------|------|
+| [CVE-2026-0073 ADB TLS认证绕过](https://barghest.asia/blog/cve-2026-0073-adb-tls-auth-bypass/) | Android adbd TLS认证绕过RCE漏洞分析 |
+| [Dev Tunnels Accidental C2](https://specterops.io/blog/2026/05/06/dev-tunnels-the-accidental-c2/) | VS Code Dev Tunnels远程访问C2化研究 |
 | [GOAD-Dracarys](https://bl4ckarch.github.io/posts/GOAD-DRACARYS/) | GOAD-Dracarys靶场攻击路径复盘 |
 | [Recursively fuzzing MS-RPC](https://www.incendium.rocks/posts/Fuzzing-MS-RPC-structures-and-monitoring/) | 递归模糊测试MS-RPC结构与ETW监控实践 |
 | [Exploring NVIDIA Linux Drivers](https://fuzzinglabs.com/exploring-nvidia-linux-drivers-internals-basics-ioctls/) | NVIDIA Linux驱动IOCTL内部机制解析 |

@@ -2,6 +2,27 @@
 
 | 文章 | 简介 |
 |------|------|
+| [ProcMon-MCP](https://github.com/0xhackerfren/ProcMon-MCP) | 面向AI代理的进程监控与ETW追踪MCP工具 |
+| [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | 面向Claude的OSINT侦察技能与红队模板集 |
+| [claude-code-quickstart](https://github.com/MrNine-666/claude-code-quickstart) | Windows版Claude Code环境自动安装管理器 |
+| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | GPT-Image2工业级提示词模板与案例库 |
+| [KooixMail](https://github.com/telagod/KooixMail) | Rust与React实现的自托管临时邮箱系统 |
+| [code-abyss](https://github.com/telagod/code-abyss) | 为Claude Code和Codex注入攻防人格的配置工具 |
+| [hostc](https://github.com/akazwz/hostc) | 基于Cloudflare Workers的零配置边缘隧道工具 |
+| [Chaterm](https://github.com/chaterm/Chaterm) | 面向云基础设施管理的AI终端工具 |
+| [ai-nvr](https://github.com/2234839/ai-nvr) | Bun与Vue构建的AI智能网络视频录像机 |
+| [existing-solution-finder](https://github.com/aygnep/existing-solution-finder) | 查找既有修复方案的开发问题检索工具 |
+| [mini-cc](https://github.com/you-want/mini-cc) | 轻量级多语言AI编程智能体与终端UI |
+| [nezha](https://github.com/hanshuaikang/nezha) | 面向AI代理时代的多项目代码编辑器 |
+| [link-ai](https://github.com/star7th/link-ai) | 保护大模型调用隐私的安全接入网关 |
+| [kite-desktop](https://github.com/eryajf/kite-desktop) | 基于Wails的Kubernetes多集群桌面管理工具 |
+| [hi-kid](https://github.com/xiaochong/hi-kid) | 本地运行的儿童英语口语听力练习桌面应用 |
+| [tab-out](https://github.com/zarazhangrui/tab-out) | 将新标签页变成标签清理控制台的浏览器工具 |
+| [himi-recorder](https://github.com/jrainlau/himi-recorder) | 具备反检测机制的macOS隐身录屏工具 |
+| [quien](https://github.com/retlehs/quien) | Go实现的WHOIS与域名情报命令行工具 |
+| [Plexus](https://github.com/miniLV/Plexus) | 一键配置AI编程代理MCP技能与规则的本地工具 |
+| [ProfReach](https://github.com/Freyliu0516/ProfReach) | 本地优先的研究生导师套磁邮件助手 |
+| [WorkPulse](https://github.com/dobest1024/WorkPulse) | 支持任务追踪和AI周报的桌面工作日志工具 |
 | [Mira](https://github.com/vwww-droid/Mira) | 面向AI的移动运行时检测工作台 |
 | [auth2api](https://github.com/AmazingAng/auth2api) | Claude OAuth转OpenAI兼容API代理 |
 | [Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) | 基于AI群体的自主渗透测试框架 |

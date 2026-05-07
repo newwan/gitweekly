@@ -2,6 +2,7 @@
 
 | 文章 | 简介 |
 |------|------|
+| [VeeamDumper-BOF](https://github.com/MWR-CyberSec/VeeamDumper-BOF) | 提取Veeam凭据的Cobalt Strike BOF工具 |
 | [zig-bof-template](https://github.com/nbaertsch/zig-bof-template) | 基于Zig的Cobalt Strike BOF开发模板 |
 | [PSI_BOF](https://github.com/whokilleddb/PSI_BOF) | 检查进程内存地址与符号的Cobalt Strike BOF |
 | [CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF) | 启用Chrome DevTools协议的Cobalt Strike BOF |
