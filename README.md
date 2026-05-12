@@ -2,6 +2,15 @@
 
 | 链接 | 描述 |
 |------|------|
+| [COM-Hijacking](https://github.com/R-Secure/COM-Hijacking) | 基于COM劫持的Windows登录持久化工具 |
+| [rxrpc_privesc](https://github.com/sgkdev/rxrpc_privesc) | 利用RxRPC缺陷的Linux本地提权PoC |
+| [Loki-RS](https://github.com/Neo23x0/Loki-RS) | Rust重写的多线程YARA IOC扫描器 |
+| [DCS-935L-HNAP-Service-CVE](https://github.com/0xcc12138/DCS-935L-HNAP-Service-CVE) | D-Link DCS-935L HNAP栈溢出RCE PoC |
+| [HashDump-BypassEDR](https://github.com/AabyssZG/HashDump-BypassEDR) | 借Reg.exe绕过EDR转储Hash的脚本 |
+| [Beatrice.py](https://github.com/raskolnikov90/Beatrice.py) | 替换x64等价指令实现AV规避的二进制补丁工具 |
+| [DIRTYFAIL](https://github.com/KaraZajac/DIRTYFAIL) | Linux页缓存写入漏洞检测与PoC工具 |
+| [ETWInspector](https://github.com/jonny-jhnson/ETWInspector) | C#实现的ETW提供者枚举与追踪工具包 |
+| [WinSSHound](https://github.com/1r0BIT/WinSSHound) | 发现AD环境Windows SSH误配置的Python工具 |
 | [PositiveIntent](https://github.com/Mister-Joe/PositiveIntent) | 规避加载.NET程序集的C#内存执行工具 |
 | [NetFuscator](https://github.com/Mister-Joe/NetFuscator) | 基于Mono.Cecil的.NET程序集基础混淆器 |
 | [EVENSTAR](https://github.com/winterknife/EVENSTAR) | 面向Windows底层实验的Intel 64研究代码 |

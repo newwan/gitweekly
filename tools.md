@@ -2,6 +2,31 @@
 
 | 文章 | 简介 |
 |------|------|
+| [WindsurfAPI](https://github.com/dwgx/WindsurfAPI) | Windsurf转OpenAI兼容API代理 |
+| [next-16.2.4-pocs](https://github.com/dwisiswant0/next-16.2.4-pocs) | Next.js 16.2.4安全漏洞PoC合集 |
+| [codex-redteam-optin-mode](https://github.com/chAng-L19/codex-redteam-optin-mode) | Codex红队模式提示与钩子配置 |
+| [mirage](https://github.com/strukto-ai/mirage) | 面向AI代理的统一虚拟文件系统 |
+| [openclip](https://github.com/linzzzzzz/openclip) | AI驱动的长视频高光片段提取工具 |
+| [chrome-devtools-cli](https://github.com/aeroxy/chrome-devtools-cli) | 自动连接Chrome DevTools协议的Rust CLI |
+| [vr_difficulty](https://github.com/yo-yo-yo-jbo/vr_difficulty) | 从数学角度解释漏洞发现难度的研究 |
+| [claude-goal](https://github.com/jthack/claude-goal) | 为Claude Code提供持久目标管理的技能 |
+| [dm-other-claudes](https://github.com/jthack/dm-other-claudes) | 跨SSH转发Claude Code任务的协作工具 |
+| [COM-Hijacking](https://github.com/R-Secure/COM-Hijacking) | 基于COM劫持的Windows登录持久化工具 |
+| [tday](https://github.com/unbug/tday) | 聚合多种代码代理运行环境的终端 |
+| [Shift-Happens](https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus/) | Windows上下文菜单命令注入场景资料 |
+| [opus-benchmark](https://github.com/ZeroPathAI/opus-benchmark) | Claude Opus漏洞检测能力基准代码 |
+| [agentmemory](https://github.com/rohitg00/agentmemory) | 面向AI编码代理的持久记忆系统 |
+| [observer_ward](https://github.com/emo-crab/observer_ward) | Rust实现的Web服务指纹识别工具 |
+| [zero-native](https://github.com/vercel-labs/zero-native) | Zig与Web UI构建跨端原生应用框架 |
+| [rebased](https://github.com/DetachHead/rebased) | 基于IntelliJ平台的独立Git客户端 |
+| [master-humanizer](https://github.com/hurryingauto3/master-humanizer) | 去除模型化文风的Claude编辑技能 |
+| [Xposure](https://github.com/SnailSploit/Xposure) | 自动化暴露凭据发现与验证平台 |
+| [vibe-re](https://github.com/0xeb/vibe-re) | 基于IDA Pro和SQL查询的恶意软件逆向工程分析工作空间 |
+| [Virtual Memory](https://blog.codingconfessions.com/p/virtual-memory) | Linux页表TLB与虚拟内存机制深度解析 |
+| [misteye-skills](https://github.com/slowmist/misteye-skills) | MistEye安全检测门禁与巡检技能 |
+| [no-mistakes](https://github.com/kunchenguid/no-mistakes) | 防止误执行git push的Go工具 |
+| [ratty](https://github.com/orhun/ratty) | 支持内联3D图形的GPU渲染终端模拟器 |
+| [tokscale](https://github.com/junhoyeo/tokscale) | 多AI代理Token用量追踪CLI工具 |
 | [ProcMon-MCP](https://github.com/0xhackerfren/ProcMon-MCP) | 面向AI代理的进程监控与ETW追踪MCP工具 |
 | [Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) | 面向Claude的OSINT侦察技能与红队模板集 |
 | [claude-code-quickstart](https://github.com/MrNine-666/claude-code-quickstart) | Windows版Claude Code环境自动安装管理器 |

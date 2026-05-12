@@ -2,6 +2,25 @@
 
 | 文章 | 简介 |
 |------|------|
+| [Google AI Studio XSS](https://ndevtk.github.io/writeups/2026/05/09/aistudio-xss/) | Google AI Studio XSS漏洞赏金案例分析 |
+| [V8 Maglev CVE-2026-5865](https://nebusec.ai/research/v8-maglev-incorrect-phis-untagging/?v=0) | V8 Maglev写屏障遗漏导致Chrome RCE分析 |
+| [Hacking Google Support](https://michaeldalton.au/posts/hacking-google-support) | Google支持系统客户数据泄露漏洞复盘 |
+| [LLVM Devirtualizer](https://eversinc33.com/2026/05/07/llvm-devirtualizer#Virtualization-based-obfuscation) | 基于LLVM的虚拟化混淆反编译实践 |
+| [Project Naptime](https://projectzero.google/2024/06/project-naptime.html) | Google Project Zero评估LLM攻防能力研究 |
+| [Cross-Session Activation](https://ipurple.team/2026/05/04/cross-session-activation/) | Windows跨会话COM激活横向移动技术分析 |
+| [TraceIX NoSQL Injection](https://medium.com/@mridulsec/pwning-a-threat-intel-platform-uncovering-a-critical-nosql-injection-in-traceix-a51c075a6e02) | TraceIX威胁情报平台NoSQL注入漏洞分析 |
+| [Static Devirtualization of Themida](https://back.engineering/blog/09/05/2026/) | Themida虚拟机保护静态去虚拟化研究 |
+| [MsMpEng svchost without flags](https://research.nasbench.dev/research/other/msmpeng-svchost-without-flags) | Defender无参数创建svchost的逆向分析 |
+| [Google Issue 478909975](https://issuetracker.google.com/u/0/issues/478909975?pli=1) | Google Issue Tracker公开问题记录 |
+| [PageJack CVE-2022-0995](https://blog.quarkslab.com/pagejack-in-action-cve-2022-0995-exploit.html) | Linux PageJack内核UAF利用技术实战 |
+| [Operation SilentCanvas](https://www.cyfirma.com/research/operation-silentcanvas-jpeg-based-multistage-powershell-intrusion/) | SilentCanvas JPEG载荷PowerShell入侵活动分析 |
+| [Shift Happens](https://specterops.io/blog/2026/05/07/shift-happens-uncovering-two-built-in-command-injections-in-windows-context-menus/) | Windows上下文菜单命令注入漏洞研究 |
+| [Android Notification DoS](https://hulkvision.github.io/blog/android-notification-dos/android-notification-dos/) | Android通知GIF拒绝服务补丁绕过分析 |
+| [RCEliteLLM LiteLLM RCE](https://mccaulay.co.uk/rcelitellm-litellm-1-83-14-chaining-an-environment-variable-leak-with-jinja2-ssti-for-remote-code-execution/) | LiteLLM环境变量泄露到Jinja2 SSTI链RCE |
+| [DLL File Analysis](https://medium.com/@shreyash_tambe/dll-file-analysis-a-practical-guide-for-malware-analysts-9e0a8cf82d1d) | DLL文件恶意软件分析实战指南 |
+| [Pwn2Own Berlin 2026 RCE](https://flex0geek.blogspot.com/2026/05/pwn2own-berlin-2026-how-i-got-rce-and.html) | Pwn2Own Berlin 2026 RCE参赛复盘 |
+| [ARM64 Reversing and Exploitation Series](https://8ksec.io/arm-64-reversing-and-exploitation-series/) | ARM64 架构漏洞分析与利用技术的系列教程 |
+| [NiFi CVE-2026-39816](https://zeropath.com/blog/nifi-cve-2026-39816-privesc-rce) | Apache NiFi权限提升与代码执行漏洞分析 |
 | [CVE-2026-0073 ADB TLS认证绕过](https://barghest.asia/blog/cve-2026-0073-adb-tls-auth-bypass/) | Android adbd TLS认证绕过RCE漏洞分析 |
 | [Dev Tunnels Accidental C2](https://specterops.io/blog/2026/05/06/dev-tunnels-the-accidental-c2/) | VS Code Dev Tunnels远程访问C2化研究 |
 | [GOAD-Dracarys](https://bl4ckarch.github.io/posts/GOAD-DRACARYS/) | GOAD-Dracarys靶场攻击路径复盘 |
