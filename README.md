@@ -2,6 +2,8 @@
 
 | 链接 | 描述 |
 |------|------|
+| [dexhound](https://github.com/dPhoeniixx/dexhound) | 无注入转储Android进程DEX文件的C工具 |
+| [magnetar](https://github.com/0xjrx/magnetar) | 集成ETW/AMSI绕过的Windows Shellcode加载框架 |
 | [COM-Hijacking](https://github.com/R-Secure/COM-Hijacking) | 基于COM劫持的Windows登录持久化工具 |
 | [rxrpc_privesc](https://github.com/sgkdev/rxrpc_privesc) | 利用RxRPC缺陷的Linux本地提权PoC |
 | [Loki-RS](https://github.com/Neo23x0/Loki-RS) | Rust重写的多线程YARA IOC扫描器 |

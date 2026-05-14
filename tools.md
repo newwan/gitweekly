@@ -2,6 +2,11 @@
 
 | 文章 | 简介 |
 |------|------|
+| [ouroboros](https://github.com/Q00/ouroboros) | 面向AI代理的规范驱动开发工作流工具 |
+| [opensec](https://github.com/maxktz/opensec) | 面向开源仓库的AI安全审查捐助平台 |
+| [r2garlic](https://github.com/radareorg/r2garlic) | 结合radare2的高速Android DEX反编译器 |
+| [RuView](https://github.com/ruvnet/RuView) | 基于WiFi信号的Rust实时空间感知系统 |
+| [3DCellForge](https://github.com/huangserva/3DCellForge) | 基于React与Three.js的AI 3D模型工作台 |
 | [WindsurfAPI](https://github.com/dwgx/WindsurfAPI) | Windsurf转OpenAI兼容API代理 |
 | [next-16.2.4-pocs](https://github.com/dwisiswant0/next-16.2.4-pocs) | Next.js 16.2.4安全漏洞PoC合集 |
 | [codex-redteam-optin-mode](https://github.com/chAng-L19/codex-redteam-optin-mode) | Codex红队模式提示与钩子配置 |

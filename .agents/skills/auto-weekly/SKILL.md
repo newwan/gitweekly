@@ -21,6 +21,10 @@ description: This skill should be used when the user asks to generate weekly rep
 
 在执行脚本前，检测系统中可用的 Python 命令：
 
+**本仓库 Windows/PowerShell 约定：**
+- 优先使用 `python`，不要使用当前环境中的 `python3` shim（它可能正常退出但不输出结果）。
+- 执行内联 Python 或脚本前设置 `$env:PYTHONIOENCODING='utf-8'`，避免中文文件名或中文输出触发 `charmap` 编码错误。
+
 ```bash
 # 检测 python3 或 python
 if command -v python3 &> /dev/null; then

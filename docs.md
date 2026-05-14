@@ -2,6 +2,12 @@
 
 | 文章 | 简介 |
 |------|------|
+| [Genians Python Backdoor](https://www.genians.co.kr/en/blog/threat_intelligence/python) | APT37深伪诱饵Python后门攻击链分析 |
+| [Authentication Bypass/File Upload](https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8) | 认证绕过到文件上传覆盖的漏洞赏金案例 |
+| [CVE-2022-33649 Edge](https://jinmo.github.io/blog/2026/05/10/cve-2022-33649-entrypoint-to-push-to-install.html) | Edge商店安装特性链CVE-2022-33649分析 |
+| [Apache Pony Mail CVE-2026-41873](https://starlabs.sg/advisories/26/26-41873/) | Apache Pony Mail CRLF注入SSRF接管漏洞分析 |
+| [Back to XPC Tahoe](https://mykalseceng.github.io/posts/back-to-xpc-mapping-tahoe/) | macOS Tahoe XPC服务攻击面枚举实践 |
+| [Android Zero-Click PoC](https://cybersecuritynews.com/poc-exploit-android-zero-click-vulnerability/) | Android零点击远程Shell漏洞PoC事件分析 |
 | [Google AI Studio XSS](https://ndevtk.github.io/writeups/2026/05/09/aistudio-xss/) | Google AI Studio XSS漏洞赏金案例分析 |
 | [V8 Maglev CVE-2026-5865](https://nebusec.ai/research/v8-maglev-incorrect-phis-untagging/?v=0) | V8 Maglev写屏障遗漏导致Chrome RCE分析 |
 | [Hacking Google Support](https://michaeldalton.au/posts/hacking-google-support) | Google支持系统客户数据泄露漏洞复盘 |
