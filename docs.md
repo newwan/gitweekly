@@ -2,6 +2,23 @@
 
 | 文章 | 简介 |
 |------|------|
+| [UniFi RCE链分析](https://bishopfox.com/blog/popping-root-on-unifi-os-server-unauthenticated-rce-chain-detection-analysis) | UniFi OS Server未认证RCE链分析 |
+| [Next.js AVIF RCE分析](https://aviatrix.ai/threat-research-center/nextjs-patches-critical-avif-windows-flaws-enabling-unauthenticated-rce/) | Next.js AVIF漏洞致未认证RCE分析 |
+| [Log4j绕过PoC分析](https://rocket-boys.co.jp/security-measures-lab/log4j-filter-bypass-rce-poc-no-cve/) | Log4j过滤器绕过RCE PoC分析 |
+| [Securelist工业威胁报告](https://securelist.com/industrial-threat-report-q2-2026/121159/) | 卡巴斯基Q2季度工业威胁态势报告 |
+| [OpenAI事故技术报告](https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf) | OpenAI Hugging Face事故技术报告 |
+| [SharePoint探测分析](https://rocket-boys.co.jp/security-measures-lab/microsoft-sharepoint-cve-2026-55040-cve-2026-63520/) | SharePoint漏洞链探测活动分析 |
+| [Securelist Q2漏洞报告](https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/) | 卡巴斯基Q2漏洞与利用趋势报告 |
+| [Unit42 AI样本分析](https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/) | Unit42生产端点AI赋能样本分析 |
+| [OX ClickFix研究](https://www.ox.security/blog/research-clickfix-phishing-npm-packages/) | ClickFix钓鱼npm注册表包研究 |
+| [Cloudflare DDoS报告](https://blog.cloudflare.com/ddos-threat-report-2026-h1/) | Cloudflare上半年DDoS威胁态势报告 |
+| [arrayref供应链攻击](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/) | Rust生态arrayref供应链攻击分析 |
+| [Calix UPnP研究](https://drkq.github.io/security-research/calix-vu756733/) | Calix设备MiniUPnPd缺认证漏洞研究 |
+| [miniOrange SAML绕过](https://patchstack.com/articles/one-slug-seven-editions-the-miniorange-saml-sso-bug-that-let-anyone-log-in-as-your-wordpress-admin/) | miniOrange SAML SSO认证绕过分析 |
+| [GitLab探测续报](https://rocket-boys.co.jp/security-measures-lab/gitlab-cve-2026-19478-exploit-attempts/) | GitLab GraphQL漏洞探测尝试分析 |
+| [Entra ID口径更正](https://rocket-boys.co.jp/security-measures-lab/microsoft-entra-id-cve-2026-69836-exploit-correction/) | 微软Entra ID漏洞利用口径更正分析 |
+| [Open VSX清理](https://socket.dev/blog/open-vsx-unblocks-malicious-extension-ids) | Open VSX恶意扩展ID回收清理分析 |
+| [ToxicPanda 2.0分析](https://zimperium.com/resources/zimperium-zlabs-uncovers-toxicpanda-2.0-a-significantly-more-powerful-android-banking-trojan) | ToxicPanda 2.0安卓银行木马分析 |
 | [SilkParasite APT活动追踪](https://businessinsights.bitdefender.com/silkparasite-tracking-china-nexus-apt-across-central-asia) | 追踪中亚活动的中国背景APT新RAT分析 |
 | [VoltaStealer首次实战信号](https://lunarcyber.com/blog/voltastealers-first-field-signal-clickfix-delivery-memory-first-claims-and-the-stealer-tradecraft-behind-the-noise/) | VoltaStealer木马实战分发与规避手法 |
 | [Elementor Pro文件上传RCE](https://patchstack.com/articles/critical-unauthenticated-file-upload-to-rce-in-elementor-pro-plugin/) | Elementor Pro插件文件上传RCE分析 |

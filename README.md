@@ -2,6 +2,10 @@
 
 | 链接 | 描述 |
 |------|------|
+| [CVE-2026-18963-keycloak](https://github.com/Red-Darkin/CVE-2026-18963-keycloak) | Keycloak未认证账户接管漏洞PoC仓库 |
+| [CVE-2026-19478](https://github.com/renzi25031469/CVE-2026-19478) | GitLab漏洞nuclei检测仓库 |
+| [cve-2026-62911](https://github.com/hypnguyen1209/cve-2026-62911) | Exchange未认证RCE漏洞PoC仓库 |
+| [CVE-2026-75604-poc](https://github.com/rafabd1/CVE-2026-75604-poc) | Next.js Windows平台RCE漏洞PoC |
 | [Metabase-Setup-Endpoint-SQLi-Fix](https://github.com/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix) | Metabase SQLi非官方修复仓库 |
 | [massacre](https://github.com/portbuster1337/massacre) | TLS证书记录触发的远程DoS 0day PoC |
 | [sccm-cve-2026-47301-remote-code-execution-exploit](https://github.com/omribaso/sccm-cve-2026-47301-remote-code-execution-exploit) | SCCM组合利用链获取SYSTEM权限PoC |

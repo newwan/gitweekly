@@ -1,7 +1,28 @@
 # 有趣的工具
 
+
 | 文章 | 简介 |
 |------|------|
+| [nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei基于模板的漏洞扫描器 |
+| [Zimperium-IOC](https://github.com/Zimperium/IOC) | Zimperium威胁指标IOC公开仓库 |
+| [SliverMirage](https://github.com/daniomass/SliverMirage) | Sliver C2的PICO加载器分支工具 |
+| [ai-llm-red-team-handbook](https://github.com/Shiva108/ai-llm-red-team-handbook) | 面向AI与LLM安全的红队测试手册 |
+| [CS-EDR-Enumeration](https://github.com/mohamedanas069/CS-EDR-Enumeration) | Cobalt Strike EDR遥测枚举扩展 |
+| [pius](https://github.com/praetorian-inc/pius) | 覆盖证书透明与被动DNS的资产侦察管线 |
+| [red-team-blue-team-agent-fabric](https://github.com/msaleme/red-team-blue-team-agent-fabric/blob/main/docs/EVIDENCE-CLASS-TAXONOMY.md) | 红蓝队攻防智能体的证据分类框架 |
+| [tailcat](https://github.com/tailscale/tailcat) | 基于Tailscale数据面的netcat工具 |
+| [Claude-AD](https://github.com/ADScanPro/Claude-AD) | 面向Claude Code的AD域评估仓库 |
+| [Immunefi-Bug-Bounty-Programs](https://github.com/infosec-us-team/Immunefi-Bug-Bounty-Programs-Unofficial) | Immunefi赏金计划变更追踪镜像仓库 |
+| [auditcode](https://github.com/itsdarktoday/auditcode) | 多智能体Web3合约自动化审计平台 |
+| [sim-use](https://github.com/lycorp-jp/sim-use) | 让AI操控iOS模拟器与安卓设备的工具 |
+| [ZERO](https://github.com/rafabd1/ZERO) | 面向赏金资产的定制漏洞分析流水线 |
+| [zs-proxy](https://github.com/TxnLab/zs-proxy) | OpenAI兼容的私有推理代理服务 |
+| [omg.dev](https://github.com/BennyKok/omg.dev) | 多AI编程代理远程控制与手机客户端 |
+| [burp-ext_requestminimizer](https://github.com/g4nkd/burp-ext_requestminimizer) | 精简HTTP请求参数头的Burp扩展 |
+| [ane-linux-experiments](https://github.com/joshuaswarren/ane-linux-experiments) | Linux上驱动Apple神经引擎的计算实验 |
+| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j2日志记录框架组件 |
+| [agentreach](https://github.com/bojieli/agentreach) | 让编程智能体经SSH接管远程主机 |
+| [fortitool](https://github.com/mosajjal/fortitool) | Fortinet固件解密与分析工具 |
 | [c2probe](https://github.com/kurokuma/c2probe) | 高速自定义C2 IP地址发现工具 |
 | [InjectionRange](https://github.com/17vivekupadhyay/InjectionRange) | RAG流水线构成的LLM红队测试靶场 |
 | [DutchOven](https://github.com/loosehose/DutchOven) | 应用级Windows网络干扰的C与BOF工具 |
