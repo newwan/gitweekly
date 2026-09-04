@@ -2,6 +2,35 @@
 
 | 文章 | 简介 |
 |------|------|
+| [BraZetsu恶意软件分析](https://aviatrix.ai/threat-research-center/brazetsu-malware-initial-access-broker-marketplace-2026/) | BraZetsu拉美初始访问恶意软件分析 |
+| [Elementor Pro接管分析](https://aviatrix.ai/threat-research-center/critical-elementor-pro-flaw-cve-2026-32475-wordpress-takeover/) | Elementor Pro未认证上传接管分析 |
+| [Langflow密钥窃取在野分析](https://aviatrix.ai/threat-research-center/critical-langflow-flaw-cve-2026-0768-exploited-steal-openai-aws-keys/) | Langflow漏洞窃取云密钥在野分析 |
+| [JFrog认证绕过利用分析](https://aviatrix.ai/threat-research-center/jfrog-artifactory-cve-2026-82329-authentication-bypass-exploit/) | JFrog认证绕过漏洞在野利用分析 |
+| [BREEZE COMET巴西金融欺诈](https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/) | BREEZE COMET巴西金融欺诈分析 |
+| [GeoNetwork预认证RCE研究](https://ethiack.com/info-hub/research/geonetwork-preauth-RCE) | GeoNetwork预认证RCE漏洞研究 |
+| [Sangoma Switchvox RCE披露](https://horizon3.ai/attack-research/disclosures/cve-2026-9586-sangoma-switchvox-rce/) | Sangoma Switchvox RCE漏洞披露 |
+| [Aurora滥用Cursor AI研究](https://labs.cloudsecurityalliance.org/research/csa-research-note-aurora-ransomware-cursor-ai-abuse-20260901/) | Aurora勒索软件滥用Cursor AI研究 |
+| [CPG转nuclei编译器技术文](https://medium.com/@mhiritarek/why-i-built-a-deterministic-cpg-to-nuclei-compiler-in-rust-bcb6c7afe4f8) | CPG转nuclei的Rust编译器技术文 |
+| [Gryxa AI工具包分析](https://reliaquest.com/blog/threat-spotlight-gryxa-ai-built-toolkit/) | Gryxa基于AI构建的恶意工具包分析 |
+| [Linux SCTP UAF PoC分析](https://rocket-boys.co.jp/security-measures-lab/linux-kernel-cve-2026-68162-sctp-poc/) | Linux内核SCTP UAF漏洞PoC分析 |
+| [Redis TLS漏洞PoC分析](https://rocket-boys.co.jp/security-measures-lab/redis-cve-2026-81934-tls-poc/) | Redis TLS相关漏洞PoC分析研究 |
+| [Mirage Kitten后门分析](https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/) | Mirage Kitten新后门家族分析 |
+| [Head Mare打TrueConf分析](https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/) | Head Mare针对TrueConf后门分析 |
+| [ValleyRAT广告软件后门分析](https://securelist.com/valleyrat-backdoor-adware/121175/) | ValleyRAT广告软件后门家族分析 |
+| [HPE Fabric Composer漏洞分析](https://securityonline.info/hpe-fabric-composer-vulnerabilities/) | HPE Fabric Composer漏洞分析研究 |
+| [SonicWall SMA1000 SSRF分析](https://securityonline.info/sonicwall-sma1000-cve-2026-83548-ssrf/) | SonicWall网关SSRF漏洞分析研究 |
+| [Unit42 AI代理入侵调查](https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/) | Unit42对企业AI代理入侵调查 |
+| [Spring Ring语音钓鱼分析](https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/) | Spring Ring语音钓鱼活动分析 |
+| [PaperCut在野利用](https://www.huntress.com/blog/papercut-actively-exploited) | PaperCut零日漏洞在野利用分析 |
+| [Storm-2755工资劫持分析](https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/) | Storm-2755工资劫持攻击活动分析 |
+| [TerminalFix多阶段入侵分析](https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/) | TerminalFix多阶段反向隧道入侵分析 |
+| [KindaRails2Shell技术分析](https://www.rapid7.com/blog/post/ra-kindarails2shell-technical-analysis-cve-2026-66066/) | KindaRails2Shell任意文件读技术分析 |
+| [macOS.Gaslight后门分析](https://www.sentinelone.com/labs/macos-gaslight-rust-backdoor-turns-prompt-injection-on-the-analyst-not-the-sandbox/) | macOS.Gaslight提示注入后门分析 |
+| [Fire Ant基础设施攻击](https://www.sygnia.co/blog/fire-ant-evolves-from-hypervisors-to-trusted-infrastructure/) | Fire Ant针对可信基础设施攻击分析 |
+| [内网仿真合法AD/GPO研究](https://www.synacktiv.com/en/publications/simulating-legitimate-active-directory-services-on-the-network-the-case-of-gpo) | 内网仿真合法AD与GPO服务研究 |
+| [AI基础设施蜜罐研究](https://www.wiz.io/blog/ai-infrastructure-honeypot) | 面向AI基础设施的蜜罐部署研究 |
+| [Starlette BadHost审计](https://www.x41-dsec.de/lab/advisories/x41-2026-002-starlette) | Starlette BadHost漏洞安全审计 |
+| [SnappyClient ClickFix分析](https://github.com/douglasmun/Douglas-Guidebook/blob/main/ClickFix%20Chain%20Fake%20Cloudflare%20Lure%20to%20SnappyClient%20RAT.pdf) | SnappyClient ClickFix链分析 |
 | [UniFi RCE链分析](https://bishopfox.com/blog/popping-root-on-unifi-os-server-unauthenticated-rce-chain-detection-analysis) | UniFi OS Server未认证RCE链分析 |
 | [Next.js AVIF RCE分析](https://aviatrix.ai/threat-research-center/nextjs-patches-critical-avif-windows-flaws-enabling-unauthenticated-rce/) | Next.js AVIF漏洞致未认证RCE分析 |
 | [Log4j绕过PoC分析](https://rocket-boys.co.jp/security-measures-lab/log4j-filter-bypass-rce-poc-no-cve/) | Log4j过滤器绕过RCE PoC分析 |

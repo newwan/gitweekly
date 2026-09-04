@@ -1,8 +1,24 @@
 # 有趣的工具
 
-
 | 文章 | 简介 |
 |------|------|
+| [ultralight-AES](https://github.com/husamabdel/ultralight-AES) | C语言超轻量AES-128加解密库 |
+| [pyrpc](https://github.com/pyrpc/pyrpc) | Python与TypeScript端到端RPC库 |
+| [darwin-vm](https://github.com/jprx/darwin-vm) | 用QEMU运行iOS与macOS的虚拟机 |
+| [subidx](https://github.com/vee1e/subidx) | 自托管证书透明日志子域枚举工具 |
+| [ipatool](https://github.com/majd/ipatool) | 从App Store下载IPA的命令行工具 |
+| [utopia](https://github.com/deeplethe/utopia) | 全球首个开源企业级世界模型框架 |
+| [simslim](https://github.com/MobAI-App/simslim) | 关闭多余守护以多开iOS模拟器的工具 |
+| [Qwen3.8-27B-NVFP4-DGX-Spark-Recipe](https://github.com/sojufx/Qwen3.8-27B-NVFP4-DGX-Spark-Recipe) | 单卡DGX Spark部署Qwen3.8的配方 |
+| [Awesome-Red-Teaming](https://github.com/0xMrNiko/Awesome-Red-Teaming) | 面向红队人员的精选学习资源列表 |
+| [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | 面向越狱场景的无审查AI聊天工具 |
+| [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞狩猎的Claude Code技能包 |
+| [Stifle](https://github.com/logangoins/Stifle) | 滥用ADCS强证书映射的后渗透工具 |
+| [pingcastle](https://github.com/netwrix/pingcastle) | 快速评估AD域安全态势的审计工具 |
+| [Malleon](https://github.com/r3xmax/Malleon) | 自动化模拟Malleable C2配置的工具 |
+| [skills](https://github.com/SpecterOps/skills) | SpecterOps面向LLM的技能市场仓库 |
+| [cpg-nuclei-compiler](https://github.com/Tito0015/cpg-nuclei-compiler) | CPG到nuclei模板的确定性编译器 |
+| [Cybermes](https://github.com/Zyrexnn/Cybermes) | 自主攻防与漏洞赏金的智能体框架 |
 | [nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei基于模板的漏洞扫描器 |
 | [Zimperium-IOC](https://github.com/Zimperium/IOC) | Zimperium威胁指标IOC公开仓库 |
 | [SliverMirage](https://github.com/daniomass/SliverMirage) | Sliver C2的PICO加载器分支工具 |
